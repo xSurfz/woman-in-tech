@@ -50,3 +50,14 @@ export const fetchTestimonials = async () => {
     return []
   }
 }
+
+export const fetchResources = async () => {
+  try {
+    const response = await fetch(`${import.meta.env.VITE_API_URL}/resources.json`)
+    if (!response.ok) throw new Error('Error cargando recursos')
+    return await response.json()
+  } catch (error) {
+    console.error('Error:', error)
+    return []
+  }
+}
