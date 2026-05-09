@@ -28,7 +28,7 @@ export const fetchPrograms = async () => {
 
 export const fetchCommunity = async () => {
   try {
-    const response = await fetch(`${import.meta.env.VITE_API_URL}community.json`)
+    const response = await fetch(`${import.meta.env.VITE_API_URL}/community.json`)
     if (!response.ok) throw new Error('Error cargando comunidad')
     return await response.json()
   } catch (error) {
