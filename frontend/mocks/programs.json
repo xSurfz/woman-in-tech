@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Mentorías",
+    "description": "Acompañamiento personalizado con profesionales de la industria",
+    "image": "https://picsum.photos/id/100/400/300",
+    "actionText": "Solicitar mentoría"
+  },
+  {
+    "id": 2,
+    "name": "Talleres",
+    "description": "Workshops prácticos en tecnologías actuales",
+    "image": "https://picsum.photos/id/91/400/300",
+    "actionText": "Ver próximos talleres"
+  },
+  {
+    "id": 3,
+    "name": "Networking",
+    "description": "Conecta con otras mujeres en tecnología",
+    "image": "https://picsum.photos/id/96/400/300",
+    "actionText": "Unirse"
+  },
+  {
+    "id": 4,
+    "name": "Bootcamps",
+    "description": "Programas intensivos de formación técnica",
+    "image": "https://picsum.photos/id/106/400/300",
+    "actionText": "Inscribirse"
+  },
+  {
+    "id": 5,
+    "name": "Proyectos académicos",
+    "description": "Desarrolla soluciones reales en equipo",
+    "image": "https://picsum.photos/id/29/400/300",
+    "actionText": "Conocer más"
+  }
+]

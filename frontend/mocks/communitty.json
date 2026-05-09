@@ -1,0 +1,20 @@
+{
+  "leaders": [
+    {
+      "id": 1,
+      "name": "Ana Martínez",
+      "role": "Presidenta",
+      "interest": "Inteligencia Artificial",
+      "image": "https://picsum.photos/id/62/200/200"
+    }
+  ],
+  "members": [
+    {
+      "id": 2,
+      "name": "Carolina Ríos",
+      "role": "Miembro activa",
+      "interest": "Desarrollo Web",
+      "image": "https://picsum.photos/id/63/200/200"
+    }
+  ]
+}
