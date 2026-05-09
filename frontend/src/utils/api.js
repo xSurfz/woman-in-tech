@@ -21,7 +21,21 @@ export const fetchPrograms = async () => {
     return await response.json();
   } catch (error) {
     console.error('Error en fetchPrograms:', error);
-    // Retorna un array vacío para evitar errores de .map() en el componente
     return [];
   }
 };
+
+
+export const fetchCommunity = async () => {
+  try {
+    const response = await fetch(`${import.meta.env.VITE_API_URL}community.json`)
+    if (!response.ok) throw new Error('Error cargando comunidad')
+    return await response.json()
+  } catch (error) {
+    console.error('Error:', error)
+    return {
+      leaders: [],
+      members: []
+    }
+  }
+}
