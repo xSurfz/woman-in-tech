@@ -39,3 +39,14 @@ export const fetchCommunity = async () => {
     }
   }
 }
+
+export const fetchTestimonials = async () => {
+  try {
+    const res = await fetch(`${import.meta.env.VITE_API_URL}/testimonials.json`)
+    if (!res.ok) throw new Error('Error testimonials')
+    return await res.json()
+  } catch (e) {
+    console.error(e)
+    return []
+  }
+}
