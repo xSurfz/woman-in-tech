@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Curso gratuito: Introducción a la Programación",
+    "description": "Aprende los fundamentos de la programación con Python. Ideal para principiantes sin experiencia previa.",
+    "type": "course",
+    "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwia2I_n7qSNAxWEVI8FHQPtA6sYABABGgJ0bA&ae=2&aspm=1&co=1&ase=2&gclid=C7M3bGmRY40CFY08Ch0BKQjMEA&sig=AOD64_1eD8dR5d2UPa3M2VQk1QYwOsQh9Q&q&nis=4&adurl&ved=2ahUKEwjTpITn7qSNAxWfRjABHXzRP4kQ0Qx6BAgGEAE",
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=400&h=200&fit=crop"
+  },
+  {
+    "id": 2,
+    "title": "Beca: Bootcamp de Desarrollo Web Full Stack",
+    "description": "Beca completa para mujeres en tecnología. Cupos limitados. Incluye mentoría personalizada.",
+    "type": "scholarship",
+    "link": "https://ejemplo.com/beca-bootcamp",
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=400&h=200&fit=crop"
+  },
+  {
+    "id": 3,
+    "title": "Comunidad: Women Devs Colombia",
+    "description": "Grupo de Telegram con más de 2000 mujeres desarrolladoras. Comparte dudas, ofertas laborales y recursos.",
+    "type": "link",
+    "link": "https://t.me/womendevscolombia",
+    "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=400&h=200&fit=crop"
+  },
+  {
+    "id": 4,
+    "title": "Guía de estudio: Preparación para entrevistas técnicas",
+    "description": "Material descargable con preguntas frecuentes, ejercicios de lógica y consejos para entrevistas en tech.",
+    "type": "material",
+    "link": "https://ejemplo.com/guia-entrevistas",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=200&fit=crop"
+  },
+  {
+    "id": 5,
+    "title": "Curso: Fundamentos de UX/UI Design",
+    "description": "Aprende a diseñar experiencias digitales centradas en el usuario. Con certificado gratuito.",
+    "type": "course",
+    "link": "https://ejemplo.com/curso-ux-ui",
+    "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=400&h=200&fit=crop"
+  },
+  {
+    "id": 6,
+    "title": "Beca: Google Women Techmakers Scholarship",
+    "description": "Beca internacional para mujeres en carreras STEM. Incluye mentoría y acceso a eventos globales.",
+    "type": "scholarship",
+    "link": "https://developers.google.com/womentechmakers",
+    "image": "https://images.unsplash.com/photo-1573164574230-db1d5e960238?w=400&h=200&fit=crop"
+  }
+]

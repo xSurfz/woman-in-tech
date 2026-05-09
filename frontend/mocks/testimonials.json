@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "María López",
+    "role": "Software Engineer",
+    "image": "https://randomuser.me/api/portraits/women/1.jpg",
+    "testimonial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio."
+  },
+  {
+    "id": 2,
+    "name": "Carolina Díaz",
+    "role": "Data Scientist",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "testimonial": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
+  },
+  {
+    "id": 3,
+    "name": "Valentina Torres",
+    "role": "Frontend Developer",
+    "image": "https://randomuser.me/api/portraits/women/3.jpg",
+    "testimonial": "At vero eos et accusamus et iusto odio dignissimos ducimus."
+  }
+]

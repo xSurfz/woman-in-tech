@@ -1,0 +1,33 @@
+{
+  "upcoming": [
+    {
+      "id": 1,
+      "name": "Hackathon Women in Code",
+      "date": "2026-06-15",
+      "description": "48 horas de desarrollo en equipos. ¡Trae tu laptop y creatividad!",
+      "location": "Auditorio Principal, Universidad",
+      "image": "https://picsum.photos/id/26/400/300",
+      "infoLink": "/events/1"
+    },
+    {
+      "id": 2,
+      "name": "Taller de Introducción a React",
+      "date": "2026-05-20",
+      "description": "Aprende los fundamentos de React desde cero",
+      "location": "Laboratorio 3, Edificio de Sistemas",
+      "image": "https://picsum.photos/id/0/400/300",
+      "infoLink": "/events/2"
+    }
+  ],
+  "past": [
+    {
+      "id": 3,
+      "name": "Networking: Mujeres en Tech",
+      "date": "2026-03-10",
+      "description": "Evento de networking con profesionales de la industria",
+      "location": "Centro de Convenciones",
+      "image": "https://picsum.photos/id/20/400/300",
+      "infoLink": "/events/3"
+    }
+  ]
+}
